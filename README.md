@@ -11,3 +11,4 @@ UPS Power Manger makes use of NUT API to control a compatible UPS. This program 
 ### Features
 - View the UPS power storage
 - Add device names to the program
+- Save and load data
